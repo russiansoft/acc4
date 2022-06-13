@@ -1,0 +1,15 @@
+body
+{
+	/* background-color: #fafafa; */
+	background-color: white;
+}
+
+@media (prefers-color-scheme: dark)
+{
+	*
+	{
+		background-color: #222 !important;
+		color: #ddd !important;
+		border-color: #444 !important;
+	}
+}
